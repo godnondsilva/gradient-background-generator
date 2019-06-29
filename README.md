@@ -6,8 +6,8 @@ A dynamic gradient background generator for both linear gradients as well as rad
 
 # Project URL:
 
-- Source: https://godnondsilva.github.io/gradient-background-generator
-- Live: https://github.com/godnondsilva/gradient-background-generator
+- Source: https://github.com/godnondsilva/gradient-background-generator
+- Live: https://godnondsilva.github.io/gradient-background-generator
 
 -----------------------------------------------------
 
